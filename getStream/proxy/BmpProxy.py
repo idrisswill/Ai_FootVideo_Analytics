@@ -1,6 +1,3 @@
-import pprint
-import time
-
 from browsermobproxy import Server
 
 
